@@ -23,7 +23,7 @@ TBD
 
 I want there to be NO barriers to using this code, so I am releasing it to the public domain.  But "public domain" does not have an internationally agreed upon definition, so I use CC0:
 
-Copyright 2021-2022 Steven Ford http://geeky-boy.com and licensed
+Copyright 2024-2024 Steven Ford http://geeky-boy.com and licensed
 "public domain" style under
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/):
 ![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png "CC0")
