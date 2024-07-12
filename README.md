@@ -4,15 +4,11 @@ Simple example program with UDP and select().
 # Table of contents
 
 <!-- mdtoc-start -->
-&bull; [cprt](#cprt)  
+&bull; [sock_tst](#sock_tst)  
 &bull; [Table of contents](#table-of-contents)  
 &bull; [INTRODUCTION](#introduction)  
-&bull; [APIs](#apis)  
-&nbsp;&nbsp;&nbsp;&nbsp;&bull; [CPRT_GETTIME](#cprt_gettime)  
-&nbsp;&nbsp;&nbsp;&nbsp;&bull; [cprt_getopt](#cprt_getopt)  
-&bull; [GNU Extensions](#gnu-extensions)  
 &bull; [License](#license)  
-<!-- TOC created by '../mdtoc/mdtoc.pl README.md' (see https://github.com/fordsfords/mdtoc) -->
+<!-- TOC created by '/home/sford/bin/mdtoc.pl README.md' (see https://github.com/fordsfords/mdtoc) -->
 <!-- mdtoc-end -->
 
 # INTRODUCTION
